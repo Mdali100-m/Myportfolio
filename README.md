@@ -1,4 +1,2 @@
 # Myportfolio
-This is a my first github repository
-<br>
-Author-Md Ali(government polytechnic nawada)
+This is a my first  Portfolio Website
